@@ -1,0 +1,10 @@
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.exe
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csprojAssemblyReference.cache
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfoInputs.cache
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfo.cs
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\staticwebassets\BooksApi.StaticWebAssets.Manifest.cache
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\staticwebassets\BooksApi.StaticWebAssets.xml
