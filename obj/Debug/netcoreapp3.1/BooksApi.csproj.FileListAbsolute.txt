@@ -24,8 +24,6 @@ C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksAp
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.runtimeconfig.dev.json
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.dll
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.pdb
-C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csproj.CoreCompileInputs.cache
-C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.dll
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.pdb
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.genruntimeconfig.cache

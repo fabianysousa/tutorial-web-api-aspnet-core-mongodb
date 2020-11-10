@@ -10,8 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using BooksApi.Models;
 using Microsoft.Extensions.Options;
+using BooksApi.Models;
 using BooksApi.Service;
 
 namespace BooksApi
@@ -36,7 +36,9 @@ namespace BooksApi
                 sp.GetRequiredService<IOptions<BookstoreDatabaseSettings>>().Value);
 
             services.AddSingleton<BookService>();
-            services.AddControllers();
+            
+            services.AddControllers()
+                .AddNewtonsoftJson(options => options.UseMemberCasing());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
