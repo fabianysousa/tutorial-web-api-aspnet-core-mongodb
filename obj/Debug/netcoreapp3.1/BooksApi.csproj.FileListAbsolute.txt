@@ -19,3 +19,13 @@ C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\runtime
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csproj.CopyComplete
 C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.deps.json
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.runtimeconfig.json
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.runtimeconfig.dev.json
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.dll
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\bin\Debug\netcoreapp3.1\BooksApi.pdb
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.dll
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.pdb
+C:\Users\fabiany_costa\Desktop\Projetos\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.genruntimeconfig.cache
