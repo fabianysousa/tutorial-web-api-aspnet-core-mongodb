@@ -20,7 +20,7 @@ A API deve gerenciar itens de "tarefas pendentes" armazenados em um banco de dad
 
 ## 🧠 Conceitos aprendidos
 
-Aprendi a criar um banco de dados do MongoDB utilizando comandos shell, criei uma coleção e inseri dados no banco, além de exibir esses dados no cmd do Mongo.
+Foi criado um banco de dados do MongoDB utilizando comandos shell, criei uma coleção e inseri dados no banco, além de exibir esses dados no cmd do Mongo.
 
 | Comandos shell Mongo DB | Descrição |
 |----------------|-----------|
