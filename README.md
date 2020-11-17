@@ -14,8 +14,6 @@ Nesse repositório é colocado em prática e documentando os conceitos básicos 
 - [X] Executar operações CRUD do MongoDB a partir de uma API Web.
 - [X] Personalizar a serialização JSON.
 
-A API deve gerenciar itens de "tarefas pendentes" armazenados em um banco de dados. 
-
 ---
 
 ## 🧠 Conceitos aprendidos
